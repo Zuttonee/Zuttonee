@@ -31,6 +31,8 @@ Im currently new and always been working alone. So please be nice :)
 
 <img align="left" alt="Zuttonee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zuttonee&&theme=dracula&show_icons=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuttonee&layout=compact&theme=dracula)](https://github.com/zuttonee/github-readme-stats)
+
 
 [Discord]: https://www.google.com
 [Instagram]: https://www.google.com
