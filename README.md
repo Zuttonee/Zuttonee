@@ -1,10 +1,11 @@
 ## Nyaho!! You can call me Ash - aka \<Zuttonee>
 
+Im currently new and always been working alone. So please be nice :)
 - 👋 Hi, I’m @Zuttonee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in making games and systems for games
+- 🌱 I’m currently learning how to organize codes
+- 💞️ I’m looking to collaborate on small game projects
+- 📫 How to reach me zuttonee@gmail.com
 
 ### Connect with me:
 
@@ -16,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original.svg" style="padding-right:10px;" />
@@ -26,6 +27,6 @@
 <br/>
 <br/>
 
-[Discord]:
-[Instagram]:
-[Twitter]:
+[Discord]: https://www.google.com
+[Instagram]: https://www.google.com
+[Twitter]: https://www.google.com
