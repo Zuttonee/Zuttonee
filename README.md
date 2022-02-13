@@ -27,6 +27,11 @@ Im currently new and always been working alone. So please be nice :)
 <br/>
 <br/>
 
+---
+
+<img align="left" alt="Zuttonee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zuttonee&&theme=dracula&show_icons=true" />
+
+
 [Discord]: https://www.google.com
 [Instagram]: https://www.google.com
 [Twitter]: https://www.google.com
