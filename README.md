@@ -1,4 +1,4 @@
-## Nyaho!! You can call me Ash - aka \<Zuttonee>
+## Hello, you can call me Ash - aka \<Zuttonee>
 
 Im currently new and always been working alone. So please be nice :)
 - 👋 Hi, I’m @Zuttonee
